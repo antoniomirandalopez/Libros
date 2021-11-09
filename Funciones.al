@@ -31,6 +31,7 @@ codeunit 50100 Funciones
         Libros.CreaNuevoRegistro('Reina Roja', 'Juan Gomez-Jurado', 20, 20210101D);
         Libros.CreaNuevoRegistro('Loba Negra', 'Juan Gomez-Jurado', 20, 20220101D);
         Libros.CreaNuevoRegistro('Cicatriz', 'Juan Gomez-Jurado', 10, 20180101D);
+        Libros.CreaNuevoRegistro('El paciente', 'Juan Gomez-Jurado', 10, 20190101D);
     end;
 
     procedure ModificarLibro()
